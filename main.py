@@ -10,7 +10,7 @@ language_options = ["English", "French"]
 
 # Main app layout
 def main():
-    st.subheader("LinkedIn Post Generator: Codebasics")
+    st.subheader("LinkedIn Post Generator: Hi there")
 
     # Create three columns for the dropdowns
     col1, col2, col3 = st.columns(3)
