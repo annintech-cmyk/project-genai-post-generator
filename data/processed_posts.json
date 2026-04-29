@@ -39,14 +39,24 @@
         ]
     },
     {
-        "text": "sapne dekhna achi baat hai,\nlekin job ka sapna dekh ke 'interested' likhna,\nyeh toh achi baat nahi hai na?",
-        "engagement": 545,
-        "line_count": 3,
-        "language": "Hinglish",
-        "tags": [
-            "Job Search",
-            "Sapne"
-        ]
+      "text": "Rêver, c’est une bonne chose,\nmais rêver d’un emploi et juste écrire 'intéressé',\nce n’est pas vraiment une bonne chose, non ?",
+      "engagement": 545,
+      "line_count": 3,
+      "language": "French",
+      "tags": [
+        "Job Search",
+        "Dreams"
+      ]
+    },
+    {
+      "text": "Boostez votre productivité en 5 étapes simples :\n\nPriorisez vos tâches pour maximiser votre temps et votre énergie. Fixez des objectifs clairs et des délais pour rester concentré et motivé. Décomposez les grands projets en petites tâches faciles à gérer. Éliminez les distractions et évitez le multitâche. Faites des pauses régulières pour recharger votre énergie et retrouver votre concentration. Restez organisé grâce à des outils comme les listes de tâches et les calendriers. Accomplissez plus en moins de temps en appliquant ces conseils de productivité. #ConseilsProductivité #GestionDuTemps",
+      "engagement": 0,
+      "line_count": 7,
+      "language": "French",
+      "tags": [
+        "Productivité",
+        "Gestion du temps"
+      ]
     },
     {
         "text": "Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.\nIf there's a link attached to it, it's most probably a fake one.\nSaves me time!",
